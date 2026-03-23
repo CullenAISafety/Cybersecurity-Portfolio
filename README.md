@@ -1,6 +1,6 @@
 Cullen Mathews | Cybersecurity Portfolio
 
-Email: [cullenemathews@gmail.com](cullenemathews@gmail.com) | Linkedin: [Linkedin Cullen Mathews](https://www.linkedin.com/in/cullen-mathews-b8753449/) | github: [Github](https://github.com/CullenAISafety)
+Email: [cullenemathews@gmail.com](cullenemathews@gmail.com) | Linkedin: [Linkedin Cullen Mathews](https://www.linkedin.com/in/cullen-mathews-b8753449/) | github: [CullenAISafety](https://github.com/CullenAISafety)
 
 
 A hands-on portfolio showcasing applied skills across SOC operations, cloud security, malware analysis, network threat hunting, and Windows endpoint investigations. Each project demonstrates real-world cybersecurity expertise with code, labs, and actionable analysis.
