@@ -17,6 +17,7 @@ Malware Reverse Engineering Mini-Project	Malware Analysis & IOC Extraction	Stati
 
 Network Threat Hunting Repo	Network Analysis & Threat Hunting	PCAP Analysis, TCP/IP, Zeek, Suricata, Python	View Repo: [Network Threat Hunting Repo](https://github.com/CullenAISafety/Network-Threat-Hunting-Repo)
 
+Financial Fraud Detection System Converted Network Threat Hunting Repo into a Financial Fraud Detection System. [Financial Fraud Detection System](https://github.com/CullenAISafety/Financial-Fraud-Detection-System/tree/main)
 
 PowerShell-Based Malware Incident Investigation	Windows Endpoint Security & Incident Response	PowerShell Automation, Event Logs, Registry Analysis	View Repo: [Powershell-Based Malware Incident Investigation](https://github.com/CullenAISafety/PowerShell-Based-Malware-Incident-Investigation)
 
