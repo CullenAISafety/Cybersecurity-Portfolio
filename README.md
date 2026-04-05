@@ -22,6 +22,9 @@ Financial Fraud Detection System Converted Network Threat Hunting Repo into a Fi
 PowerShell-Based Malware Incident Investigation	Windows Endpoint Security & Incident Response	PowerShell Automation, Event Logs, Registry Analysis	View Repo: [Powershell-Based Malware Incident Investigation](https://github.com/CullenAISafety/PowerShell-Based-Malware-Incident-Investigation)
 
 
+Cloud-SOC-Threat-Detection
+A cloud-based Security Operations Center (SOC) simulation built on Azure.  [Cloud-SOC-Threat-Detection](https://github.com/CullenAISafety/cloud-soc-threat-detection)
+
 **Skills & Expertise**
 SOC & Threat Detection: SIEM, alerting workflows, simulated attacks
 Cloud Security: AWS, Azure, GCP detection and monitoring
