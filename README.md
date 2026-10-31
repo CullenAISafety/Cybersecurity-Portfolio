@@ -25,6 +25,12 @@ PowerShell-Based Malware Incident Investigation	Windows Endpoint Security & Inci
 Cloud-SOC-Threat-Detection
 A cloud-based Security Operations Center (SOC) simulation built on Azure.  [Cloud-SOC-Threat-Detection](https://github.com/CullenAISafety/cloud-soc-threat-detection)
 
+
+Yale Redirect Issue an Independent Case Study 
+
+[Yale Redirect Issue] (https://github.com/CullenAISafety/case-studies-yale-redirect-issue-) 
+
+
 **Skills & Expertise**
 SOC & Threat Detection: SIEM, alerting workflows, simulated attacks
 Cloud Security: AWS, Azure, GCP detection and monitoring
