@@ -30,6 +30,14 @@ Yale Redirect Issue an Independent Case Study
 
 [Yale Redirect Issue](https://github.com/CullenAISafety/case-studies-yale-redirect-issue-) 
 
+A case study involing Yale Univesity's YES Program (Yale Entreprenuerial Society) 
+
+Corporate-Security-Threat-Investigation
+
+[xAI Corporate-Security-Threate-Investigation Case Study](https://github.com/CullenAISafety/Corporate-Security-Threat-Investigation/tree/main)
+
+A case study involving xAI and Gaoyi Consulting. 
+
 
 **Skills & Expertise**
 SOC & Threat Detection: SIEM, alerting workflows, simulated attacks
