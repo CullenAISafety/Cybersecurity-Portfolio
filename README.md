@@ -28,7 +28,7 @@ A cloud-based Security Operations Center (SOC) simulation built on Azure.  [Clou
 
 Yale Redirect Issue an Independent Case Study 
 
-[Yale Redirect Issue](https://github.com/CullenAISafety/case-studies-yale-redirect-issue-) 
+[Yale Redirect Issue Case Study](https://github.com/CullenAISafety/case-studies-yale-redirect-issue-) 
 
 A case study involing Yale Univesity's YES Program (Yale Entreprenuerial Society) 
 
